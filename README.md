@@ -76,6 +76,4 @@ Feel free to reach out:
 - GitHub: [NIMADITH-LMH](https://github.com/NIMADITH-LMH)
 - Instagram: [@havinduuu](https://www.instagram.com/havinduuu/profilecard/)
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
